@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://pinapaz.baskhobby.com.ua/sitemap.xml
+Host: pinapaz.baskhobby.com.ua
