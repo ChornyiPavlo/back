@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pinapaz.baskhobby.com.ua/sitemap.xml
-Host: pinapaz.baskhobby.com.ua
+Sitemap: http://pinapaz.baskhobby.com/sitemap.xml
+Host: pinapaz.baskhobby.com
